@@ -1,0 +1,4 @@
+*.b#*
+*.s#*
+/eagleUp
+eagle.epf
