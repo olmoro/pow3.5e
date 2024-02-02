@@ -14665,37 +14665,21 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <smd name="16" x="-5.5" y="-3.25" dx="0.4064" dy="1.3208" layer="1" rot="R180" stop="no" cream="no"/>
 <text x="0" y="-4.445" size="1.016" layer="25" font="vector" ratio="10" rot="R180" align="bottom-center">&gt;NAME</text>
 <text x="0" y="0" size="1.016" layer="27" font="vector" ratio="9" distance="49" rot="R180" align="center">&gt;VALUE</text>
-<rectangle x1="5.3" y1="-3.45" x2="5.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="5.375" y1="-3.375" x2="5.625" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="4.3" y1="-3.45" x2="4.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="4.375" y1="-3.375" x2="4.625" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="3.3" y1="-3.45" x2="3.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="3.375" y1="-3.375" x2="3.625" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="2.3" y1="-3.45" x2="2.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="2.375" y1="-3.375" x2="2.625" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="1.3" y1="-3.45" x2="1.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="1.375" y1="-3.375" x2="1.625" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="0.3" y1="-3.45" x2="0.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="0.375" y1="-3.375" x2="0.625" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-0.7" y1="-3.45" x2="-0.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-0.625" y1="-3.375" x2="-0.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-1.7" y1="-3.45" x2="-1.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-1.625" y1="-3.375" x2="-1.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-2.7" y1="-3.45" x2="-2.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-2.625" y1="-3.375" x2="-2.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-3.7" y1="-3.45" x2="-3.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-3.625" y1="-3.375" x2="-3.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-4.7" y1="-3.45" x2="-4.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-4.625" y1="-3.375" x2="-4.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-5.7" y1="-3.45" x2="-5.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-5.625" y1="-3.375" x2="-5.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-6.7" y1="-3.45" x2="-6.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-6.625" y1="-3.375" x2="-6.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-7.7" y1="-3.45" x2="-7.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-7.625" y1="-3.375" x2="-7.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-8.7" y1="-3.45" x2="-8.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-8.625" y1="-3.375" x2="-8.375" y2="-2.125" layer="31" rot="R180"/>
-<rectangle x1="-9.7" y1="-3.45" x2="-9.3" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="-9.625" y1="-3.375" x2="-9.375" y2="-2.125" layer="31" rot="R180"/>
 <rectangle x1="-12.8" y1="-1.1" x2="-11" y2="1.1" layer="1"/>
 <rectangle x1="10.95" y1="-1.175" x2="12.85" y2="1.175" layer="29" rot="R180"/>
@@ -14730,18 +14714,34 @@ Es handelt sich hierbei um AK500 in horizontaler Ausführung.&lt;p&gt;
 <rectangle x1="-8.6" y1="-3.4" x2="-8.4" y2="-2.55" layer="51" rot="R180"/>
 <rectangle x1="-8.6" y1="-3.4" x2="-8.4" y2="-2.55" layer="51" rot="R180"/>
 <rectangle x1="-9.6" y1="-3.4" x2="-9.4" y2="-2.55" layer="51" rot="R180"/>
-<rectangle x1="6.3" y1="-3.45" x2="6.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="6.375" y1="-3.375" x2="6.625" y2="-2.125" layer="31" rot="R180"/>
 <rectangle x1="6.4" y1="-3.4" x2="6.6" y2="-2.55" layer="51" rot="R180"/>
-<rectangle x1="7.3" y1="-3.45" x2="7.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="7.375" y1="-3.375" x2="7.625" y2="-2.125" layer="31" rot="R180"/>
 <rectangle x1="7.4" y1="-3.4" x2="7.6" y2="-2.55" layer="51" rot="R180"/>
-<rectangle x1="8.3" y1="-3.45" x2="8.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="8.375" y1="-3.375" x2="8.625" y2="-2.125" layer="31" rot="R180"/>
 <rectangle x1="8.4" y1="-3.4" x2="8.6" y2="-2.55" layer="51" rot="R180"/>
-<rectangle x1="9.3" y1="-3.45" x2="9.7" y2="-2.05" layer="29" rot="R180"/>
 <rectangle x1="9.375" y1="-3.375" x2="9.625" y2="-2.125" layer="31" rot="R180"/>
 <rectangle x1="9.4" y1="-3.4" x2="9.6" y2="-2.55" layer="51" rot="R180"/>
+<rectangle x1="3.25" y1="-3.95" x2="3.75" y2="-2.55" layer="29"/>
+<rectangle x1="-9.75" y1="-3.95" x2="-9.25" y2="-2.55" layer="29"/>
+<rectangle x1="-8.75" y1="-3.95" x2="-8.25" y2="-2.55" layer="29"/>
+<rectangle x1="-7.75" y1="-3.95" x2="-7.25" y2="-2.55" layer="29"/>
+<rectangle x1="-6.75" y1="-3.95" x2="-6.25" y2="-2.55" layer="29"/>
+<rectangle x1="-5.75" y1="-3.95" x2="-5.25" y2="-2.55" layer="29"/>
+<rectangle x1="-4.75" y1="-3.95" x2="-4.25" y2="-2.55" layer="29"/>
+<rectangle x1="-3.75" y1="-3.95" x2="-3.25" y2="-2.55" layer="29"/>
+<rectangle x1="-2.75" y1="-3.95" x2="-2.25" y2="-2.55" layer="29"/>
+<rectangle x1="-1.75" y1="-3.95" x2="-1.25" y2="-2.55" layer="29"/>
+<rectangle x1="-0.75" y1="-3.95" x2="-0.25" y2="-2.55" layer="29"/>
+<rectangle x1="0.25" y1="-3.95" x2="0.75" y2="-2.55" layer="29"/>
+<rectangle x1="1.25" y1="-3.95" x2="1.75" y2="-2.55" layer="29"/>
+<rectangle x1="2.25" y1="-3.95" x2="2.75" y2="-2.55" layer="29"/>
+<rectangle x1="9.25" y1="-3.95" x2="9.75" y2="-2.55" layer="29"/>
+<rectangle x1="8.25" y1="-3.95" x2="8.75" y2="-2.55" layer="29"/>
+<rectangle x1="7.25" y1="-3.95" x2="7.75" y2="-2.55" layer="29"/>
+<rectangle x1="6.25" y1="-3.95" x2="6.75" y2="-2.55" layer="29"/>
+<rectangle x1="5.25" y1="-3.95" x2="5.75" y2="-2.55" layer="29"/>
+<rectangle x1="4.25" y1="-3.95" x2="4.75" y2="-2.55" layer="29"/>
 </package>
 <package name="TO220DLK">
 <wire x1="-5.207" y1="4.1275" x2="5.207" y2="4.1275" width="0.1524" layer="22"/>
@@ -17424,8 +17424,8 @@ Source: http://www.diodes.com/datasheets/ds23001.pdf</description>
 <sheets>
 <sheet>
 <plain>
-<text x="175.26" y="7.62" size="3.81" layer="94">mklon3.5
-pow3.5vX</text>
+<text x="175.26" y="7.62" size="3.81" layer="94">MKlon3.5
+pow3.5eX</text>
 <wire x1="63.5" y1="34.29" x2="58.42" y2="34.29" width="0.1524" layer="94"/>
 <wire x1="58.42" y1="34.29" x2="58.42" y2="35.56" width="0.1524" layer="94"/>
 <wire x1="58.42" y1="35.56" x2="58.42" y2="36.83" width="0.1524" layer="94"/>
@@ -17452,6 +17452,7 @@ NTC 10k±2% 3950</text>
 <text x="193.04" y="147.32" size="2.54" layer="91" font="vector" ratio="10" align="center">-LOAD</text>
 <text x="15.24" y="157.48" size="2.54" layer="91" font="vector" ratio="10" align="center">+19V</text>
 <text x="15.24" y="142.24" size="2.54" layer="91" font="vector" ratio="10" align="center">-19V</text>
+<text x="236.22" y="20.32" size="2.54" layer="94" font="vector" ratio="14" align="bottom-center">Olmoro 2024</text>
 </plain>
 <instances>
 <instance part="FRAME3" gate="G$1" x="0" y="0"/>
